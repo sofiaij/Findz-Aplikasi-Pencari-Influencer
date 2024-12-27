@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Findz</string>
+
+    <string name="tutor1">Temukan influencer terbaik yang sesuai dengan kebutuhan promosi Anda! Kami bantu Anda menemukan kolaborator yang tepat untuk membawa brand Anda lebih dekat ke audiens target.</string>
+    <string name="tutor2">Lihat rekam jejak influencer secara transparan dengan FindzTrack. Dapatkan data lengkap untuk membuat keputusan yang lebih percaya diri dan tepat.</string>
+    <string name="tutor3">Buat kesepakatan endorse tanpa ribet dengan FindzDeal. Atur harga, format konten, dan jadwal postingan untuk kerjasama yang lebih mudah dan efisien.</string>
+    <string name="tutor4">Dengan FindzNotify, selalu terdepan! Dapatkan notifikasi real-time untuk update kesepakatan, pengingat kampanye, insight performa, dan penawaran spesial langsung dari influencer favorit Anda."</string>
+    <string name="tutor5">Perkuat keputusan Anda dengan ulasan asli dari pengguna lain. FindzReview memungkinkan Anda melihat feedback kolaborasi untuk pilihan influencer yang lebih tepat</string>
+</resources>
